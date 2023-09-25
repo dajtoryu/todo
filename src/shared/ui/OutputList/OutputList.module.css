@@ -1,0 +1,22 @@
+.outputlist{
+   display: flex;
+   justify-content: space-between;
+   width: 100%;
+   height: 70px;
+   align-items: center;
+
+}
+
+.outputlist p{
+   background-color: aliceblue;
+   text-align: left;
+   vertical-align: middle;
+   width: 80%;
+   height: 40px;
+   line-height: 40px;
+   overflow: auto;
+}
+
+.outputlist button{
+   height: 40px;
+}
